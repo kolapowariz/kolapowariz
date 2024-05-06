@@ -11,7 +11,7 @@ I'm a Software Engineer and currently a student at AltSchool. I'm passionate abo
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/) Class of 2023.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer or Front Engineer (Intern or Junior level).
