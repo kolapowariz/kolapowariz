@@ -15,6 +15,6 @@ I'm a Software Engineer and currently a student at AltSchool. I'm passionate abo
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer or Front Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtokolapowariz@gmail.com.
+- 📫 You can [view my resume](https://folll.io/warizkolapo/resume/) and contact me by emailing mailtokolapowariz@gmail.com.
 
 ---
