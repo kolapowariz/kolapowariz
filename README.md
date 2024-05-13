@@ -6,13 +6,13 @@
 
 
 
-I'm a Software Engineer and currently a student at AltSchool. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I build useful [open-source projects](https://github.com/kolapowariz).
+I'm a Software Engineer, a computer science student at the University of Ibadan and currently a student at AltSchool Africa. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I build useful [open-source projects](https://github.com/kolapowariz).
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/) Class of 2023.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, Vuejs, Nextjs, TypeScript, Tailwindcss.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer or Front Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://folll.io/warizkolapo/resume/) and contact me by emailing mailtokolapowariz@gmail.com.
