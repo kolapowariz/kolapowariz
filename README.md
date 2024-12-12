@@ -29,6 +29,7 @@
 <p>📖 Book recommendations: <a href="https://bit.ly/3EdCFUW">Knowing God by J. I. Packer</a> and <a href="https://bit.ly/45r1kBH">Atomic Habits by James Clear</a>.</p>
 </li>
 </ul>
+  </details>
 <hr>
 <p><a href="https://holopin.io/@kolapowariz"><img src="https://holopin.me/kolapowariz" alt="An image of @kolapowariz's Holopin badges, which is a link to view their full Holopin profile"></a></p>
 <hr>

@@ -99,6 +99,7 @@ function generateMarkdown() {
   - 💬 How to reach me: DM [@kolapowariz](https://twitter.com/kolapowariz) on X (Twitter).\n
   - 📖 Book recommendations: [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW) and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
 
+  </details>\n
   ---\n
 
   [![An image of @kolapowariz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kolapowariz)](https://holopin.io/@kolapowariz)
