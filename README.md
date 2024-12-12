@@ -15,6 +15,9 @@
   Here are some of my other projects you might want to check out that are not pinned:
   <br />
 <br />
+   <ul><li><a href=https://github.com/kolapowariz/BMark-ECommerce target="_blank" rel="noopener noreferrer">kolapowariz/BMark-ECommerce</a> (<b>0</b> ✨ and <b>0</b> 🍴): This is an Ecommerce Platform ecommerce that allows users to create accounts as buyers or sellers, enabling seamless transactions for purchasing or selling items, while also offering a chat feature for smooth communication.</li>
+<li>More coming soon :).</li>
+</ul>
   </details>
   <details>
   <summary>Quick Tips</summary>
@@ -26,4 +29,6 @@
 <p>📖 Book recommendations: <a href="https://bit.ly/3EdCFUW">Knowing God by J. I. Packer</a> and <a href="https://bit.ly/45r1kBH">Atomic Habits by James Clear</a>.</p>
 </li>
 </ul>
+<hr>
+<p><a href="https://holopin.io/@kolapowariz"><img src="https://holopin.me/kolapowariz" alt="An image of @kolapowariz's Holopin badges, which is a link to view their full Holopin profile"></a></p>
 <hr>

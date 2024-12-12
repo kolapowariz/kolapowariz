@@ -48,11 +48,10 @@ const md = require("markdown-it")({
     breaks: true, // Convert '\n' in paragraphs into <br>
     linkify: true, // Autoconvert URL-like text to links
 });
+// import { fetchRssData } from "./fetchRssData";
+const fetchGitHubData_1 = require("./fetchGitHubData");
 const ossProjectRepos = [
-    "BolajiAyodeji",
-    "fed-unis-perf-eval",
-    "movie_reviews_sentiment_analysis",
-    "dotfiles",
+    "BMark-ECommerce",
 ];
 const githubUsername = "kolapowariz";
 const twitterUrl = "https://twitter.com/kolapowariz";
@@ -90,7 +89,7 @@ function generateMarkdown() {
   <br />
   Here are some of my other projects you might want to check out that are not pinned:\n
   <br />\n<br />
-  
+   ${yield (0, fetchGitHubData_1.fetchGitHubData)(ossProjectRepos)}\n  
   </details>\n
 
 
@@ -99,6 +98,10 @@ function generateMarkdown() {
   <summary>Quick Tips</summary>\n\n
   - 💬 How to reach me: DM [@kolapowariz](https://twitter.com/kolapowariz) on X (Twitter).\n
   - 📖 Book recommendations: [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW) and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
+
+  ---\n
+
+  [![An image of @kolapowariz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kolapowariz)](https://holopin.io/@kolapowariz)
 
   ---\n
 
