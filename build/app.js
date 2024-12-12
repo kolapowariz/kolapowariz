@@ -62,16 +62,15 @@ function generateMarkdown() {
         const linkedinBadge = `[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white)](${linkedinUrl})`;
         const twitterBadge = `[![Twitter Badge](https://img.shields.io/badge/-@kolapowariz-3B7EBF?style=for-the-badge&logo=x&logoColor=white)](${twitterUrl})`;
         const githubSponsorsBadge = `[![GitHub Sponsors Badge](https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&logo=github&logoColor=white)](${githubSponsorsUrl})`;
-        const profileCountBadge = `![Profile Views Count Badge](https://komarev.com/ghpvc/?username=${githubUsername}&style=for-the-badge)`;
         const githubStatsCardDark = `[![GitHub-Stats-Card-Dark](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-dark-mode-only)`;
         const githubStatsCardLight = `[![GitHub-Stats-Card-Light](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)`;
         const markdownText = `<div align="center">\n
 
-    ${linkedinBadge} ${twitterBadge} ${githubSponsorsBadge} ${profileCountBadge}\n
+    ${linkedinBadge} ${twitterBadge} ${githubSponsorsBadge}\n
 
   ---\n
 
-  Hi there 👋🏾! I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, technical writing, open-source. I create technical content, build open-source projects and learning materials, speak/teach at developer meetups/conferences, and build several technical communities.\n
+  Hi there 👋🏾! I'm a dedicated frontend engineer skilled in React.js, Vue.js, Next.js, and TypeScript, specializing in building performant and responsive web applications. Experienced in Agile development environments, delivering optimized user interfaces, and passionate about learning and solving real-world problems through technology..\n
 
   ---\n
 
@@ -97,7 +96,6 @@ function generateMarkdown() {
   <details>\n
   <summary>Quick Tips</summary>\n\n
   - 💬 How to reach me: DM [@kolapowariz](https://twitter.com/kolapowariz) on X (Twitter).\n
-  - 📖 Book recommendations: [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW) and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
 
   </details>\n
   ---\n
