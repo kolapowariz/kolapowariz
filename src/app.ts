@@ -9,6 +9,7 @@ import { fetchGitHubData } from "./fetchGitHubData";
 
 const ossProjectRepos = [
   "BMark-ECommerce",
+  "javascript-note"
 ];
 
 const githubUsername = "kolapowariz";
