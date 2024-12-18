@@ -19,14 +19,14 @@ const githubSponsorsUrl = "https://github.com/sponsors/kolapowariz";
 async function generateMarkdown() {
   const linkedinBadge = `[![Linkedin Badge](https://img.shields.io/badge/-warizkolapo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/warizkolapo)](${linkedinUrl})`;
   const twitterBadge = `[![Twitter Badge](https://img.shields.io/badge/-@kolapowariz-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kolapowariz)](${twitterUrl})`;
-  // const githubSponsorsBadge = `[![GitHub Sponsors Badge](https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&logo=github&logoColor=white)](${githubSponsorsUrl})`;
+  const githubSponsorsBadge = `[![GitHub Sponsors Badge](https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&logo=github&logoColor=white)](${githubSponsorsUrl})`;
 
   const githubStatsCardDark = `[![GitHub-Stats-Card-Dark](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-dark-mode-only)`;
   const githubStatsCardLight = `[![GitHub-Stats-Card-Light](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)`;
 
   const markdownText = `<div align="center">\n
 
-    ${linkedinBadge} ${twitterBadge}\n
+    ${linkedinBadge} ${twitterBadge} ${githubSponsorsBadge}\n
 
   ---\n
 
