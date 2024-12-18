@@ -52,6 +52,7 @@ const md = require("markdown-it")({
 const fetchGitHubData_1 = require("./fetchGitHubData");
 const ossProjectRepos = [
     "BMark-ECommerce",
+    "javascript-note"
 ];
 const githubUsername = "kolapowariz";
 const twitterUrl = "https://twitter.com/kolapowariz";

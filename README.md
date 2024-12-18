@@ -15,7 +15,7 @@
   Here are some of my other projects you might want to check out that are not pinned:
   <br />
 <br />
-   <ul><li><a href=https://github.com/kolapowariz/BMark-ECommerce target="_blank" rel="noopener noreferrer">kolapowariz/BMark-ECommerce</a> (<b>0</b> ✨ and <b>0</b> 🍴): This is an Ecommerce Platform ecommerce that allows users to create accounts as buyers or sellers, enabling seamless transactions for purchasing or selling items, while also offering a chat feature for smooth communication.</li>
+   <ul><li><a href=https://github.com/kolapowariz/BMark-ECommerce target="_blank" rel="noopener noreferrer">kolapowariz/BMark-ECommerce</a> (<b>0</b> ✨ and <b>0</b> 🍴): This is an Ecommerce Platform ecommerce that allows users to create accounts as buyers or sellers, enabling seamless transactions for purchasing or selling items, while also offering a chat feature for smooth communication.</li><li><a href=https://github.com/kolapowariz/javascript-note target="_blank" rel="noopener noreferrer">kolapowariz/javascript-note</a> (<b>0</b> ✨ and <b>0</b> 🍴): A class-note for JavaScript Student of AltSchool Africa School of Engineering.</li>
 <li>More coming soon :).</li>
 </ul>
   </details>
