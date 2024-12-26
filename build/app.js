@@ -54,6 +54,7 @@ const ossProjectRepos = [
     "BMark-ECommerce",
     "javascript-note"
 ];
+// ${linkedinBadge} ${twitterBadge} ${githubSponsorsBadge}\n
 const githubUsername = "kolapowariz";
 const twitterUrl = "https://twitter.com/kolapowariz";
 const linkedinUrl = "https://linkedin.com/in/warizkolapo";
@@ -67,7 +68,7 @@ function generateMarkdown() {
         const githubStatsCardLight = `[![GitHub-Stats-Card-Light](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)`;
         const markdownText = `<div align="center">\n
 
-    ${linkedinBadge} ${twitterBadge} ${githubSponsorsBadge}\n
+    
 
   ---\n
 
