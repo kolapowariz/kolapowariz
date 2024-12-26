@@ -12,6 +12,8 @@ const ossProjectRepos = [
   "javascript-note"
 ];
 
+// ${linkedinBadge} ${twitterBadge} ${githubSponsorsBadge}\n
+
 const githubUsername = "kolapowariz";
 const twitterUrl = "https://twitter.com/kolapowariz";
 const linkedinUrl = "https://linkedin.com/in/warizkolapo";
@@ -27,7 +29,7 @@ async function generateMarkdown() {
 
   const markdownText = `<div align="center">\n
 
-    ${linkedinBadge} ${twitterBadge} ${githubSponsorsBadge}\n
+    
 
   ---\n
 

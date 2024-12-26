@@ -1,6 +1,4 @@
 <div align="center">
-<pre><code>[![Linkedin Badge](https://img.shields.io/badge/-warizkolapo-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/warizkolapo)](https://linkedin.com/in/warizkolapo) [![Twitter Badge](https://img.shields.io/badge/-@kolapowariz-1ca0f1?style=for-the-badge&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/kolapowariz)](https://twitter.com/kolapowariz) [![GitHub Sponsors Badge](https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/sponsors/kolapowariz)
-</code></pre>
 <hr>
 <p>Hi there 👋🏾! I'm a dedicated frontend engineer skilled in React.js, Vue.js, Next.js, and TypeScript, specializing in building performant and responsive web applications. Experienced in Agile development environments, delivering optimized user interfaces, and passionate about learning and solving real-world problems through technology..</p>
 <hr>
