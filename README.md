@@ -21,6 +21,7 @@
   <summary>Quick Tips</summary>
 <ul>
 <li>💬 How to reach me: DM <a href="https://twitter.com/kolapowariz">@kolapowariz</a> on X (Twitter).</li>
+<li>📧 Email me: <a href="mailto:kolapowariz@gmail.com">kolapowariz@gmail.com</a></li>
 </ul>
   </details>
 <hr>
