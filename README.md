@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <hr>
 <p>Hi there 👋🏾! I'm a Full-Stack Software Engineer with experience building production web applications using React, Next.js, TypeScript, Python, FastAPI, and PostgreSQL. Experienced in developing AI-powered applications and integrating AI APIs into end-to-end product workflows. Strong background in frontend architecture, REST APIs, database integration, responsive UI development, and translating product designs into reusable software components. Comfortable working across frontend, backend, and product teams to ship user-focused applications.</p>
 <hr>
